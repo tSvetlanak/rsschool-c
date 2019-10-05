@@ -1,22 +1,19 @@
-   **Svetlana Kurbacheva**
+   #Svetlana Kurbacheva
    *Email: svetlana.a.k.15@mail.ru
-                    <li>Mobile phone: <b>+375-29-224-17-01</b></li>
-                </ul>
-            </div>
-            <h4>Summary </h4>
-            <p>After finishing the courses for programmers where we studied basic and pascal worked in the private enterprise. I was on BASIC A payroll program has been developed. After that, she worked at a creamery where she wrote programs for processing
-                various documents in the FOXpro language. After that worked in the department of BelPSB as a programmer in maintenance complex banking programs. This moment of separation closed.
-            </p>
-            <h4> Skills</h4>
-            <p> Programming Languages:</p>
-            <ul>
-                <li> HTML basic</li>
-                <li> CSS basic</li>
-            </ul>
+   *Mobile phone: **+375-29-224-17-01**
+    ####Summary 
+            After finishing the courses for programmers where we studied basic and pascal worked in the private enterprise. I was on BASIC A payroll program has been developed. After that, she worked at a creamery where she wrote programs for processing
+            various documents in the FOXpro language. After that worked in the department of BelPSB as a programmer in maintenance complex banking programs. This moment of separation closed.
+            
+             ####Skills
+            Programming Languages:
+            *HTML basic
+            *CSS basic
+            
 
 
-            <h4>Code example</h4>
-            <pre><code>
+            ####Code example
+        ```
 var arr = [1, 2, 5, 5, 3, 6, 4];
 createTable();
 createP();
@@ -36,7 +33,7 @@ this.classList.toggle('active');
 style(this);
 });
 }}
-            </code></pre>
+            ```
                 ####Experience
 
                  *[Examples of my code](https://vk.com/topic-128796313_39166727?offset=180 )           
@@ -50,10 +47,7 @@ style(this);
 			    
                 ####English level:
 				 beginner
-                  
-        </div>
-   
-        
+           
                  *Full name: **Курбачева Светлана Александровна**
                  *[Email:] (svetlana.a.k.15@mail.ru)
                  *Mobile phone: **+375-29-224-17-01**
