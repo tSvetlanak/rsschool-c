@@ -1,18 +1,26 @@
-   #Svetlana Kurbacheva
-   *Email: svetlana.a.k.15@mail.ru
-   *Mobile phone: **+375-29-224-17-01**
-    ####Summary 
-            After finishing the courses for programmers where we studied basic and pascal worked in the private enterprise. I was on BASIC A payroll program has been developed. After that, she worked at a creamery where she wrote programs for processing
-            various documents in the FOXpro language. After that worked in the department of BelPSB as a programmer in maintenance complex banking programs. This moment of separation closed.
-            
-             ####Skills
-            Programming Languages:
-            *HTML basic
-            *CSS basic
-            
+  
+   #Svetlana Kurbacheva 
 
+   *Email: svetlana.a.k.15@mail.ru 
 
-            ####Code example
+   *Mobile phone: *+375-29-224-17-01*  
+
+    ###Summary  
+
+            After finishing the courses for programmers where we studied basic and pascal worked in the private enterprise. I was on BASIC A payroll program has been developed.  
+            
+             After that, she worked at a creamery where she wrote programs for processing
+            various documents in the FOXpro language. After that worked in the department of BelPSB as a programmer in maintenance complex banking programs. This moment of separation closed.  
+            Nowaday i want to lern JS.   
+                        
+             ###Skills  
+
+            Programming Languages:  
+
+            *HTML basic  
+            *CSS basic  
+            
+             ###Code example  
         ```
 var arr = [1, 2, 5, 5, 3, 6, 4];
 createTable();
@@ -34,23 +42,24 @@ style(this);
 });
 }}
             ```
-                ####Experience
+                ###Experience  
 
-                 *[Examples of my code](https://vk.com/topic-128796313_39166727?offset=180 )           
-
-                  *[My first site](https://tSvetlanak.github.io)
+            *[Examples of my code](https://vk.com/topic-128796313_39166727?offset=180 )   
+            
+            *[My first site](https://tSvetlanak.github.io)  
 		          
-                ####Education
+                  ###Education  
                 
-                    *In 1986, I graduated from BSU Mehmat 
-                    *In 1990 graduated from the courses of programmers
-			    
-                ####English level:
-				 beginner
+           *In 1986, I graduated from BSU Mehmat   
+            *In 1990 graduated from the courses of programmers  
+            			    
+                  ###English level: 
+
+				    beginner  
            
-                 *Full name: **Курбачева Светлана Александровна**
-                 *[Email:] (svetlana.a.k.15@mail.ru)
-                 *Mobile phone: **+375-29-224-17-01**
+                 *Full name: **Курбачева Светлана Александровна**  
+                 *[Email:] (svetlana.a.k.15@mail.ru)  
+                 *Mobile phone: **+375-29-224-17-01**  
              
 
  
