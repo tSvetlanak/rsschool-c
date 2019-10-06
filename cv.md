@@ -13,10 +13,11 @@
 ### Skills  
   Programming Languages:         
   * HTML basic            
-  * CSS basic     
-
-
- ### Code example               
+  * CSS basic
+  
+  
+### Code example 	 
+ 
  ```
 var arr = [1, 2, 5, 5, 3, 6, 4];    
 createTable();      
