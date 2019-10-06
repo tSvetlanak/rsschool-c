@@ -1,11 +1,11 @@
   
-   #Svetlana Kurbacheva 
+# Svetlana Kurbacheva 
 
-   * Email: svetlana.a.k.15@mail.ru 
-
-   * Mobile phone: *+375-29-224-17-01*    
-
-    ###Summary  
+            
+* Full name: **Курбачева Светлана Александровна**  
+* Email: svetlana.a.k.15@mail.ru 
+* Mobile phone: *+375-29-224-17-01*             
+### Summary  
 
               After finishing the courses for programmers where we studied basic and pascal worked in the      
             private enterprise. I was on BASIC A payroll program has been developed.    
@@ -18,23 +18,18 @@
             Nowaday i want to lern JS.   
 
                         
-    ### Skills  
+### Skills  
+  Programming Languages:         
+  * HTML basic            
+  * CSS basic     
 
-            Programming Languages:    
 
-
-            * HTML basic    
-
-            * CSS basic   
-
-            
-    ### Code example    
-
-        ```
+ ### Code example               
+ ```
 var arr = [1, 2, 5, 5, 3, 6, 4];    
 createTable();      
 createP();  
-var table = document.getElementsByTagName('table'); 
+var table = document.getElementsByTagName('table');      
 var tds =document.getElementsByTagName('td');   
 var sp = document.getElementById('info');   
 var sum = 0;    
@@ -50,27 +45,25 @@ this.classList.toggle('active');
 style(this);    
 }); 
 }}  
-            ```     
+ ```     
             
-    ### Experience  
+ ### Experience         
 
-            * [Examples of my code](https://vk.com/topic-128796313_39166727?offset=180 )   
+
+ *   [Examples of my code](https://vk.com/topic-128796313_39166727?offset=180)      
+
+
             
-            * [My first site](https://tSvetlanak.github.io)  
+* [My first site](https://tSvetlanak.github.io)  
 		          
-    ### Education  
+### Education           
                 
-            * In 1986, I graduated from BSU Mehmat   
-            * In 1990 graduated from the courses of programmers  
+ *    In 1986, I graduated from BSU Mehmat   
+ * In 1990 graduated from the courses of programmers  
             			    
-    ### English level: 
-
-			 beginner  
-           
-                 *Full name: **Курбачева Светлана Александровна**  
-                 *[Email:] (svetlana.a.k.15@mail.ru)  
-                 *Mobile phone: **+375-29-224-17-01**  
-             
+### English level: 
+	 beginner  
+  
 
  
              
