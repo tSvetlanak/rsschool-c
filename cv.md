@@ -4,15 +4,11 @@
             
 * Full name: **Курбачева Светлана Александровна**  
 * Email: svetlana.a.k.15@mail.ru 
-* Mobile phone: *+375-29-224-17-01*             
-### Summary     
-``` 
-           After finishing the courses for programmers where we       studied basic and pascal worked in the private       enterprise. I was on BASIC A payroll program has      been developed.  
-             
-         After that, she worked at a creamery where she wrote   programs for processing various documents in the FOXpro  language. After that worked in the department of   BelPSB as a  programmer in maintenance complex banking        programs. This moment of separation closed.       
+* Mobile phone: *+375-29-224-17-01*        
 
-            Nowaday i want to lern JS.    
-   ```                                
+### Summary     
+      I want to learn JS and React to work as a freelance programmer.  	
+                               
                    
 ### Skills  
   Programming Languages:         
