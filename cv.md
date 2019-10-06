@@ -54,7 +54,7 @@ style(this);
 		          
 ### Education           
                 
- *    In 1986, I graduated from BSU Mehmat   
+ *   In 1986, I graduated from BSU Mehmat   
  * In 1990 graduated from the courses of programmers  
             			    
 ### English level: 
