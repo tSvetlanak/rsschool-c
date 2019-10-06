@@ -1,26 +1,35 @@
   
-   # Svetlana Kurbacheva 
+   #Svetlana Kurbacheva 
 
    * Email: svetlana.a.k.15@mail.ru 
 
-   * Mobile phone: *+375-29-224-17-01*  
+   * Mobile phone: *+375-29-224-17-01*    
 
-    ### Summary  
+    ###Summary  
 
-            After finishing the courses for programmers where we studied basic and pascal worked in the private enterprise. I was on BASIC A payroll program has been developed.  
+              After finishing the courses for programmers where we studied basic and pascal worked in the      
+            private enterprise. I was on BASIC A payroll program has been developed.    
+
             
-             After that, she worked at a creamery where she wrote programs for processing
-            various documents in the FOXpro language. After that worked in the department of BelPSB as a programmer in maintenance complex banking programs. This moment of separation closed.  
+               After that, she worked at a creamery where she wrote programs for processing   
+
+            various documents in the FOXpro language. After that worked in the department of BelPSB as a   
+            programmer in maintenance complex banking programs. This moment of separation closed.  
             Nowaday i want to lern JS.   
+
                         
     ### Skills  
 
-            Programming Languages:  
+            Programming Languages:    
 
-            * HTML basic     
-            * CSS basic  
+
+            * HTML basic    
+
+            * CSS basic   
+
             
-    ### Code example  
+    ### Code example    
+
         ```
 var arr = [1, 2, 5, 5, 3, 6, 4];    
 createTable();      
