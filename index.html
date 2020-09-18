@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Portfolio</title>
+    <link href="style.css" rel="stylesheet">
+</head>
+
+<body>
+    <div class="content">
+        <div class="header">
+            <img src="im2.jpg" alt="my foto">
+            <h1 class="fullname"> Svetlana Kurbacheva </h1>
+        </div>
+
+        <div class="fullinfo">
+            <ul>
+                <li> Full name: <b>Курбачева Светлана Александровна </b></li>
+                <li> Email: svetlana.a.k.15@mail.ru</li>
+                <li>Mobile phone: <i>+375-29-224-17-01 </i></li>
+            </ul>
+        </div>
+
+        <h3> Summary </h3>
+        <p>
+            I want to learn JS and React to work as a freelance programmer.
+        </p>
+
+        <h3> Skills</h3>
+        <p> Programming Languages: </p>
+        <ul>
+            <li> HTML basic </li>
+            <li> CSS basic</li>
+        </ul>
+
+
+
+        <h3>Code example </h3>
+
+        <pre><code>
+    var arr = [1, 2, 5, 5, 3, 6, 4];
+    createTable();
+    createP();
+    var table = document.getElementsByTagName('table');
+    var tds =document.getElementsByTagName('td');
+    var sp = document.getElementById('info');
+    var sum = 0;
+    var text = 'border: 1px solid black;
+    cursor: pointer; padding: 10px; height: 100px;
+    width: 100px; font-size: 50px; font-weight: bold;
+    text-align: center;';
+    checkTD(tds);
+    function checkTD(t){
+    for(var i = 0; i < arr.length; i++){
+    t[i].addEventListener('click', function(){
+    this.classList.toggle('active');
+    style(this);
+    });
+    }}
+     </code></pre>
+
+
+        <h3> Experience </h3>
+        <ul>
+            <li><a href="https://vk.com/topic-128796313_39166727?offset=180">Examples of my code</a></li>
+            <li><a href="https://tSvetlanak.github.io">My first site</a></li>
+            <li><a href="http://tSvetlanak.github.io/singolo/">singolo</a></li>
+            <li><a href="https://tsvetlanak.github.io/virtual-keyboard">virtual-keyboard</a></li>
+            <li><a href="https://tsvetlanak-english-for-kids.netlify.app/#!">english-for-kids</a></li>
+            <li><a href="https://bicycletheme.netlify.app/#!">bicycletheme</a></li>
+        </ul>
+
+        <h3> Education </h3>
+        <ul>
+            <li>In 1986, I graduated from BSU Mehmat </li>
+            <li>In 1990 graduated from the courses of programmers</li>
+        </ul>
+
+        <h3> English level: </h3>
+        <p> beginner </p>
+    </div>
+</body>
+
+</html>

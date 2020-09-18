@@ -1,0 +1,38 @@
+body {
+    margin: 2% auto;
+    font-size: 14px;
+    line-height: 1.2;
+    font-weight: 400;
+    max-width: 1024px;
+    font-family: 'Arial', sans-serif;
+    color: #1B1B1B;
+}
+
+.content {
+    width: 700px;
+    padding: 0 10%;
+    margin: 0 auto;
+}
+
+img {
+    border-radius: 20px;
+    width: 50px;
+    height: 70px;
+    margin-right: 5%;
+}
+
+.header {
+    display: flex;
+    justify-content: start;
+}
+
+.fullinfo {
+    margin-top: 5%;
+}
+
+pre {
+    margin-top: -20px;
+}
+
+
+}
